@@ -1,11 +1,11 @@
 #
 ## Présentation :
 
-Ce projet avait pour objectif d'Afficher une liste d'élément, de Récupérer des données via API reste et de stocker ses données dans notre application mobile
-Cette application affiche les images de differents exercices selon l'identifiant donnée. Il utilise L'api du site Workout Manager : (https://wger.de).
+Ce projet a pour objectif d'Afficher une liste d'élément, de Récupérer des données via API reste et de stocker ses données dans notre application mobile
+Cette application affiche les images des differents exercices à effectuer.j'utilise l'api du site Workout Manager : (https://wger.de).
 Cette application permet d'aider une personne à exercer le mouvement d'un exercice.
 
-Dans ce projet j'ai utiliser l'API PokeApi afin d'apprendre a comment utiliser le logiciel Android Studio, puis j'ai utilisé une autre API sur le workout.
+Dans ce projet j'ai utiliser l'API PokeApi afin d'apprendre à comment utiliser le logiciel Android Studio, puis j'ai utilisé une autre API sur le workout.
 
 ## Logiciel à installer:
 
